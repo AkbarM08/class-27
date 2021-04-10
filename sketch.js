@@ -9,7 +9,7 @@ var box1, pig1;
 var backgroundImg,platform;
 var constraintLog;
 function preload() {
-    backgroundImg = loadImage("bg.png");
+    backgroundImg = loadImage("sprites/bg.png");
 }
 
 function setup(){
